@@ -1,6 +1,6 @@
 {
   "name": "Dana Lee",
   "tagline": "",
-  "body": "# Welcome, I'm Dana Lee\r\n## hello to Dana world\r\n\r\nDo you want to know who I am?\r\n\r\n```ruby\r\nputs \"hello world!\"\r\n```",
+  "body": "# Welcome, I'm Dana Lee\r\n## hello to Dana world\r\n\r\nDo you want to know who I am?\r\n\r\n```ruby\r\nputs \"hello world!\"\r\nputs \"hi\"\r\n```\r\n\r\nYou know what to do ",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
